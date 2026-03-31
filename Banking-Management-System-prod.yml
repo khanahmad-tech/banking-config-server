@@ -1,0 +1,13 @@
+build:
+  version: 1.0.0-prod
+
+accounts:
+  message: "PROD - This is Accounts Service"
+
+  contactDetails:
+    name: "Application Support"
+    email: "support@gmail.com"
+
+  onCallSupport:
+    - 8554348733
+    - 8427036356
