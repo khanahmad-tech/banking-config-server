@@ -1,0 +1,13 @@
+build:
+  version: 1.0.0-prod
+
+loans:
+  message: "PROD - This is Loans Service"
+
+  contactDetails:
+    name: "Application Support"
+    email: "support@gmail.com"
+
+  onCallSupport:
+    - 8527419632
+    - 8475738537
