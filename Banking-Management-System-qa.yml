@@ -1,0 +1,13 @@
+build:
+  version: 1.0.0-qa
+
+accounts:
+  message: "QA - This is Accounts Service"
+
+  contactDetails:
+    name: "QA Support"
+    email: "qa@gmail.com"
+
+  onCallSupport:
+    - 1234567890
+    - 1382374958
