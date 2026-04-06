@@ -11,3 +11,9 @@ accounts:
   onCallSupport:
     - 1234567890
     - 1382374958
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
