@@ -9,5 +9,11 @@ accounts:
     email: "support@gmail.com"
 
   onCallSupport:
-    - 8554348733
-    - 8427036356
+    - (+91) 8554348733
+    - (+91) 8427036356
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
