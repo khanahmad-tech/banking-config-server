@@ -5,7 +5,7 @@ accounts:
   message: "PROD - This is Accounts Service"
 
   contactDetails:
-    name: "Application Support"
+    name: "Application Support (Actuator refresh)"
     email: "support@gmail.com"
 
   onCallSupport:
