@@ -2,12 +2,18 @@ build:
   version: 1.0.0-prod
 
 cards:
-  message: "PROD -This is Cards Service"
+  message: "PROD - This is Cards Service"
 
   contactDetails:
     name: "Application Support"
     email: "support@gmail.com"
 
   onCallSupport:
-    - 8527419632
-    - 7442742846
+    - "8527419632"
+    - "7442742846"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
