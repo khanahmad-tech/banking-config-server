@@ -9,5 +9,11 @@ loans:
     email: "support@gmail.com"
 
   onCallSupport:
-    - 8527419632
-    - 8475738537
+    - "8527419632"
+    - "8475738537"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
