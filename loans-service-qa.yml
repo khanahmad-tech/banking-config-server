@@ -2,12 +2,18 @@ build:
   version: 1.0.0-qa
 
 loans:
-  message: "QA -This is Loans Service"
+  message: "QA - This is Loans Service"
 
   contactDetails:
     name: "QA Support"
     email: "qa@gmail.com"
 
   onCallSupport:
-    - 1234567890
-    - 8643538763
+    - "1234567890"
+    - "8643538763"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
