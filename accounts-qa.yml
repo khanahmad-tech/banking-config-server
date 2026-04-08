@@ -9,9 +9,9 @@ accounts:
     email: "qa@gmail.com"
 
   onCallSupport:
-    - 1234567890
-    - 1382374958
-    
+    - "1234567890"
+    - "1382374958"
+
 management:
   endpoints:
     web:
