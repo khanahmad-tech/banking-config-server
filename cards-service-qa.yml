@@ -9,5 +9,11 @@ cards:
     email: "qa@gmail.com"
 
   onCallSupport:
-    - 1234567890
-    - 8724872462
+    - "1234567890"
+    - "8724872462"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
